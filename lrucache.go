@@ -105,8 +105,7 @@ func (c *LRUCache) Set(key string, value interface{}, expiration *time.Duration)
 	})
 }
 
-// Clean reinitializes the LRUCache data and lru list.
-//
+// Clean cache
 // No parameters.
 func (c *LRUCache) Clean() {
 	c.data = make(map[string]*list.Element)
