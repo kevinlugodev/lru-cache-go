@@ -41,5 +41,5 @@ cache.Clear()
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-- **Instagram:** [@kevinlugo.dev](https://www.instagram.com/kevinlugo.dev)
+- **Instagram:** [@kevinlugo.dev](https://www.instagram.com/kevinlugo.dev?theme=dark)
 - **LinkedIn:** [Kevin Harrinson Lugo Díaz](https://www.linkedin.com/in/kevinlugodiaz)
