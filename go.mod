@@ -1,3 +1,3 @@
-module github.com/kevinlugodev/lru-cache-golang
+module github.com/kevinlugodev/lru
 
 go 1.22.1
